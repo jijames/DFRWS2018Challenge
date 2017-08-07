@@ -1,4 +1,4 @@
-## IoT Forensic Challenge, 2018
+## IoT Forensic Challenge, 2017-2018
 Internet of Things (IoT) are, very generally, network and Internet connected devices usually for the purpose of monitoring and automation tasks. Consumer-grade "Smart" devices are increasing in popularity and scope. These devices and the data they collect are potentially interesting for digital investigations, but also come with a number of new investigation challenges.
 
 This challenge seeks to advance the state-of-the-art in IoT *forensics* by focusing the community's attention on this emerging domain.
