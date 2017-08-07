@@ -1,24 +1,24 @@
 ## IoT Forensic Challenge, 2018
 Internet of Things (IoT) are, very generally, network and Internet connected devices usually for the purpose of monitoring and automation tasks. Consumer-grade "Smart" devices are increasing in popularity and scope. These devices and the data they collect are potentially interesting for digital investigations, but also come with a number of new investigation challenges.
 
-This challenge seeks to advance the state-of-the-art in IoT *forensics* by focusing on the community's attention on this emerging domain.
+This challenge seeks to advance the state-of-the-art in IoT *forensics* by focusing the community's attention on this emerging domain.
 
 ### Scenario
 A woman (Betty) has been murdered. The murder was called in by Betty's husband (Simon), who claims to have been at home at the time. Additional case details can be found [here](https://nas.cybercrimetech.com/owncloud/s/0uYLgzmvyQZ8CDW). Your job is to analyze these artifacts for forensically interesting information.
 
 Responders acquired the following data:
 * Smart TV Rasberry Pi
-  * SHA1: 9ac0de76eca7958bfed1bd5909bbf766409af180
+  * SHA1: **9ac0de76eca7958bfed1bd5909bbf766409af180**
 * Samsung Note 2 (Betty)
-  * SHA1: cd494cf3097d8482100ce26dc8e35f0d87b67198
+  * SHA1: **cd494cf3097d8482100ce26dc8e35f0d87b67198**
 * Samsung Note 2 (Simon)
-  * SHA1: fc28e415ee740531df86a2b227c4f514e9ed40ba
+  * SHA1: **fc28e415ee740531df86a2b227c4f514e9ed40ba**
 * Google OnHub Diagnostic report
-  * SHA1: 20eb4825eaf6c303beadd090868110fb2de37066
+  * SHA1: **20eb4825eaf6c303beadd090868110fb2de37066**
 * Amazon Echo Cloud Data
-  * SHA1: d1d126f47b565926dcc80fe6a4e7094f0281cb47
+  * SHA1: **d1d126f47b565926dcc80fe6a4e7094f0281cb47**
 * MDS (Acme, Inc.) Smarthome Network Dump
-  * SHA1: 6ab6c522b070cde292a18645a19929998e009293
+  * SHA1: **6ab6c522b070cde292a18645a19929998e009293**
 
 All acquired data can be downloaded from [here](https://nas.cybercrimetech.com/owncloud/s/0uYLgzmvyQZ8CDW). We recommend using a download manager like [uGet](http://ugetdm.com/) since the compressed mobile images are 3GB.
 
