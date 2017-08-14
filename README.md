@@ -6,6 +6,8 @@ This challenge seeks to advance the state-of-the-art in IoT *forensics* by focus
 ### Scenario
 A woman (Betty) has been murdered. The murder was called in by Betty's husband (Simon), who claims to have been at home at the time. Additional case details can be found [here](https://nas.cybercrimetech.com/owncloud/s/DjrbKKbWb9PT4pU). Your job is to analyze these artifacts for forensically interesting information.
 
+Time Zone: **UTC+9**
+
 Responders acquired the following data:
 * Smart TV Rasberry Pi
   * SHA1: **9ac0de76eca7958bfed1bd5909bbf766409af180**
