@@ -4,7 +4,7 @@ Internet of Things (IoT) are, very generally, network and Internet connected dev
 This challenge seeks to advance the state-of-the-art in IoT *forensics* by focusing the community's attention on this emerging domain.
 
 ### Scenario
-A woman (Betty) has been murdered. The murder was called in by Betty's husband (Simon), who claims to have been at home at the time. Additional case details can be found [here](https://nas.cybercrimetech.com/owncloud/s/DjrbKKbWb9PT4pU). Your job is to analyze these artifacts for forensically interesting information.
+A woman (Betty) has been murdered. The murder was called in by Betty's husband (Simon), who claims to have been at home at the time. Additional case details can be found [here](https://nas.dfir.science/owncloud/s/DjrbKKbWb9PT4pU). Your job is to analyze these artifacts for forensically interesting information.
 
 Time Zone: **UTC+9**
 
@@ -22,7 +22,7 @@ Responders acquired the following data:
 * MDS (Acme, Inc.) Smarthome Network Dump
   * SHA1: **6ab6c522b070cde292a18645a19929998e009293**
 
-All acquired data can be downloaded from [here](https://nas.cybercrimetech.com/owncloud/s/DjrbKKbWb9PT4pU). We recommend using a download manager like [uGet](http://ugetdm.com/) since the compressed mobile images are 3GB.
+All acquired data can be downloaded from [here](https://nas.dfir.science/owncloud/s/DjrbKKbWb9PT4pU). We recommend using a download manager like [uGet](http://ugetdm.com/) since the compressed mobile images are 3GB.
 
 ### Challenge
 This DFRWS Forensic Challenge aspires to motivate new approaches to forensic analysis and has four levels of participation:
