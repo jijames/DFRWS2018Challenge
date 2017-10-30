@@ -3,6 +3,8 @@ Internet of Things (IoT) are, very generally, network and Internet connected dev
 
 This challenge seeks to advance the state-of-the-art in IoT *forensics* by focusing the community's attention on this emerging domain.
 
+This challenge is made possible by a grant from the [Korea Institute for Advancement of Technology](http://www.kiat.or.kr) (KIAT), N0002260.
+
 ### Scenario
 A woman (Betty) has been murdered. The murder was called in by Betty's husband (Simon), who claims to have been at home at the time. Additional case details can be found [here](https://nas.dfir.science/owncloud/s/DjrbKKbWb9PT4pU). Your job is to analyze these artifacts for forensically interesting information.
 
